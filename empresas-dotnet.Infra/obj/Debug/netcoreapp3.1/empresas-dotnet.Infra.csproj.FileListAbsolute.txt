@@ -1,0 +1,15 @@
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\bin\Debug\netcoreapp3.1\empresas-dotnet.Infra.deps.json
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\bin\Debug\netcoreapp3.1\empresas-dotnet.Infra.runtimeconfig.json
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\bin\Debug\netcoreapp3.1\empresas-dotnet.Infra.runtimeconfig.dev.json
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\bin\Debug\netcoreapp3.1\empresas-dotnet.Infra.dll
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\bin\Debug\netcoreapp3.1\empresas-dotnet.Infra.pdb
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\bin\Debug\netcoreapp3.1\empresas-dotnet.Domain.dll
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\bin\Debug\netcoreapp3.1\empresas-dotnet.Domain.pdb
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\obj\Debug\netcoreapp3.1\empresas-dotnet.Infra.csprojAssemblyReference.cache
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\obj\Debug\netcoreapp3.1\empresas-dotnet.Infra.AssemblyInfoInputs.cache
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\obj\Debug\netcoreapp3.1\empresas-dotnet.Infra.AssemblyInfo.cs
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\obj\Debug\netcoreapp3.1\empresas-dotnet.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\obj\Debug\netcoreapp3.1\empresas-dotnet.Infra.csproj.CopyComplete
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\obj\Debug\netcoreapp3.1\empresas-dotnet.Infra.dll
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\obj\Debug\netcoreapp3.1\empresas-dotnet.Infra.pdb
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Infra\obj\Debug\netcoreapp3.1\empresas-dotnet.Infra.genruntimeconfig.cache

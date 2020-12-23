@@ -1,0 +1,12 @@
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\bin\Debug\netcoreapp3.1\empresas-dotnet.Application.deps.json
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\bin\Debug\netcoreapp3.1\empresas-dotnet.Application.dll
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\bin\Debug\netcoreapp3.1\empresas-dotnet.Application.pdb
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\obj\Debug\netcoreapp3.1\empresas-dotnet.Application.AssemblyInfoInputs.cache
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\obj\Debug\netcoreapp3.1\empresas-dotnet.Application.AssemblyInfo.cs
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\obj\Debug\netcoreapp3.1\empresas-dotnet.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\obj\Debug\netcoreapp3.1\empresas-dotnet.Application.dll
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\obj\Debug\netcoreapp3.1\empresas-dotnet.Application.pdb
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\obj\Debug\netcoreapp3.1\empresas-dotnet.Application.csprojAssemblyReference.cache
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\bin\Debug\netcoreapp3.1\empresas-dotnet.Domain.dll
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\bin\Debug\netcoreapp3.1\empresas-dotnet.Domain.pdb
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Application\obj\Debug\netcoreapp3.1\empresas-dotnet.Application.csproj.CopyComplete

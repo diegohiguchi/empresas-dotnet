@@ -1,0 +1,9 @@
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Domain\bin\Debug\netcoreapp3.1\empresas-dotnet.Domain.deps.json
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Domain\bin\Debug\netcoreapp3.1\empresas-dotnet.Domain.dll
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Domain\bin\Debug\netcoreapp3.1\empresas-dotnet.Domain.pdb
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Domain\obj\Debug\netcoreapp3.1\empresas-dotnet.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Domain\obj\Debug\netcoreapp3.1\empresas-dotnet.Domain.AssemblyInfo.cs
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Domain\obj\Debug\netcoreapp3.1\empresas-dotnet.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Domain\obj\Debug\netcoreapp3.1\empresas-dotnet.Domain.dll
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Domain\obj\Debug\netcoreapp3.1\empresas-dotnet.Domain.pdb
+C:\Projetos\ioasys\empresas-dotnet\empresas-dotnet.Domain\obj\Debug\netcoreapp3.1\empresas-dotnet.Domain.csprojAssemblyReference.cache
